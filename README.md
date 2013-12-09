@@ -1,5 +1,7 @@
-Compass - http://www.diogocercilio.com/lab/compass.html
+HTML5 & CSS3 Compass
 =======
+
+http://www.diogocercilio.com/lab/compass.html
 
 An animated compass made using only HTML5 and CSS3.
 
